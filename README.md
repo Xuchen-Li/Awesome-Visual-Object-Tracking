@@ -179,7 +179,7 @@
   [[paper](https://arxiv.org/abs/2310.05392)] <br>
   [[code](https://github.com/LiYunfengLYF/LightFC)]
   
-- **DETRrack:** Qingmao Wei, Bi Zeng, Guotian Zeng.<br>
+- **DETRrack:** Qingmao Wei, Bi Zeng, Guotian Zeng<br>
   "Efficient Training for Visual Tracking with Deformable Transformer" ArXiv 2023<br>
   [[paper](https://arxiv.org/abs/2309.02676)] <br>
 
@@ -418,7 +418,7 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]<br>
   [[code](https://github.com/CapsuleRRT)]
   
-- **RE-Siam:** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves <br>
+- **RE-Siam:** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves<br>
   "Rotation Equivariant Siamese Networks for Tracking" CVPR 2021<br>
   [[paper](https://arxiv.org/abs/2012.13078)]<br>
   [[code](https://github.com/dkgupta90/re-siamnet)]
@@ -494,7 +494,7 @@
 ### TNNLS 2021
 
 - **CCR:** Shiming Ge, Chunhui Zhang, Shikun Li, Dan Zeng, Dacheng Tao<br>
-  "Cascaded Correlation Refinement for Robust Deep Tracking." IEEE TNNLS 2021<br>
+  "Cascaded Correlation Refinement for Robust Deep Tracking." TNNLS 2021<br>
   [[paper](https://ieeexplore.ieee.org/document/9069312)] <br>
   [[code](https://github.com/983632847/CCR)]
 
@@ -549,7 +549,7 @@
   "Higher Performance Visual Tracking with Dual-Modal Localization" ArXiv 2021<br>
   [[paper](https://arxiv.org/pdf/2103.10089.pdf)] <br>
 
-- **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br>
+- **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu<br>
   "Target Transformed Regression for Accurate Tracking" ArXiv 2021<br>
   [[paper](https://arxiv.org/pdf/2104.00403.pdf)] <br>
   [[code](https://github.com/MCG-NJU/TREG)]
