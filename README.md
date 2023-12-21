@@ -47,6 +47,16 @@
   [[paper](https://arxiv.org/abs/2204.07414)] <br>
   [[code](http://metaverse.aitestunion.com/sotverse)]
 
+- **STRtrack:** Shaochuan Zhao, Tianyang Xu, Xiaojun Wu, Josef Kittler<br>
+  "A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression" IJCV 2023<br>
+  [[paper](https://link.springer.com/article/10.1007/s11263-023-01902-x)]
+
+### TIP 2023
+
+- **SRT:** Tianpeng Liu, Jing Li, Jia Wu, Lefei Zhang, Jun Chang, Jun Wan, Lezhi Lian<br>
+  "Tracking with Saliency Region Transformer" TIP 2023<br>
+  [[paper](https://ieeexplore.ieee.org/document/10359476)] 
+
 ### CVPR 2023
 
 - **DropMAE:** Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, Antoni B. Chan<br>
@@ -59,25 +69,25 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf)] <br>
   [[code](https://github.com/phiphiphi31/VideoTrack)]
   
- - **GRM:** Shenyuan Gao, Chunluan Zhou, Jun Zhang<br>
-   "Generalized Relation Modeling for Transformer Tracking" CVPR 2023<br>
-     [[paper](https://arxiv.org/pdf/2303.16580v1.pdf)] <br>
-     [[code](https://github.com/Little-Podi/GRM)]
+- **GRM:** Shenyuan Gao, Chunluan Zhou, Jun Zhang<br>
+  "Generalized Relation Modeling for Transformer Tracking" CVPR 2023<br>
+  [[paper](https://arxiv.org/pdf/2303.16580v1.pdf)] <br>
+  [[code](https://github.com/Little-Podi/GRM)]
    
- - **ARTrack:** Xing Wei, Yifan Bai, Yongchao Zheng, Dahu Shi, Yihong Gong<br>
-   "Autoregressive Visual Tracking" CVPR 2023<br>
-     [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html)] <br>
-     [[code](https://github.com/MIV-XJTU/ARTrack)]
+- **ARTrack:** Xing Wei, Yifan Bai, Yongchao Zheng, Dahu Shi, Yihong Gong<br>
+  "Autoregressive Visual Tracking" CVPR 2023<br>
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html)] <br>
+  [[code](https://github.com/MIV-XJTU/ARTrack)]
    
- - **MAT:** Haojie Zhao, Dong Wang, Huchuan Lu<br>
-   "Representation Learning for Visual Object Tracking by Masked Appearance Transfer" CVPR 2023<br>
-     [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)] <br>
-     [[code](https://github.com/difhnp/MAT)]
+- **MAT:** Haojie Zhao, Dong Wang, Huchuan Lu<br>
+  "Representation Learning for Visual Object Tracking by Masked Appearance Transfer" CVPR 2023<br>
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)] <br>
+  [[code](https://github.com/difhnp/MAT)]
    
- - **SeqTrack:** Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu<br />
-   "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking" CVPR 2023<br>
-     [[paper](https://arxiv.org/abs/2304.14394)] <br>
-     [[code](https://github.com/microsoft/VideoX)]
+- **SeqTrack:** Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu<br />
+  "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking" CVPR 2023<br>
+  [[paper](https://arxiv.org/abs/2304.14394)] <br>
+  [[code](https://github.com/microsoft/VideoX)]
 
 ### ICCV 2023
 
