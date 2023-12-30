@@ -169,6 +169,10 @@
 
 ### arXiV 2023
 
+- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
+  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" ArXiv 2023<br>
+ [[paper](https://arxiv.org/abs/2312.17133)] <br>
+
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang<br>
   "Learning Historical Status Prompt for Accurate and Robust Visual Tracking" ArXiv 2023<br>
   [[paper](https://arxiv.org/abs/2311.02072)] <br>
