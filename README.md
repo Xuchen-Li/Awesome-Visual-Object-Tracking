@@ -22,9 +22,13 @@
 
 ### AAAI 2024
 
-- **ODTrack:**  <br>
+- **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li<br>
   "ODTrack: Online Dense Temporal Token Learning for Visual Tracking" AAAI 2024<br>
+  [[paper](https://arxiv.org/abs/2401.01686)]<br>
   [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+
+- **EVP:** Liangtao Shi, Bineng Zhong, Qihua Liang, Ning Li, Shengping Zhang, Xianxian Li
+
 
 ### WACV 2024
 
@@ -36,9 +40,20 @@
 
 - **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu<br>
   "Leveraging the Power of Data Augmentation for Transformer-based Tracking" WACV 2024<br> 
- [[paper](https://arxiv.org/abs/2309.08264)] <br> 
+  [[paper](https://arxiv.org/abs/2309.08264)] <br> 
+  [[code](https://github.com/zj5559/DATr)]
 
-[[code](https://github.com/zj5559/DATr)]
+
+### ACM MMA 2024
+
+- **UTrack:** Jie Gao, Bineng Zhong, Yan Chen<br>
+  "Unambiguous Object Tracking by Exploiting Target Cues" ACM MMA 2024<br>
+  [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)]
+
+- **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong<br>
+  "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning" ACM MMA 2024<br>
+  [[paper](https://dl.acm.org/doi/10.1145/3595916.3626410)]
+
 
 ### TPAMI 2023
 
@@ -171,7 +186,7 @@
 
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" ArXiv 2023<br>
- [[paper](https://arxiv.org/abs/2312.17133)] <br>
+  [[paper](https://arxiv.org/abs/2312.17133)] <br>
 
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang<br>
   "Learning Historical Status Prompt for Accurate and Robust Visual Tracking" ArXiv 2023<br>
