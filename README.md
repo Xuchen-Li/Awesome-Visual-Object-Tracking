@@ -27,7 +27,8 @@
   [[paper](https://arxiv.org/abs/2401.01686)]<br>
   [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
 
-- **EVP:** Liangtao Shi, Bineng Zhong, Qihua Liang, Ning Li, Shengping Zhang, Xianxian Li
+- **EVP:** Liangtao Shi, Bineng Zhong, Qihua Liang, Ning Li, Shengping Zhang, Xianxian Li<br>
+  "Explicit Visual Prompts for Visual Object Tracking" AAAI 2024
 
 
 ### WACV 2024
