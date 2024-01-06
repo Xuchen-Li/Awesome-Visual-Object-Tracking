@@ -44,23 +44,13 @@
   [[code](https://github.com/zj5559/DATr)]
 
 
-### ACM MMA 2024
-
-- **UTrack:** Jie Gao, Bineng Zhong, Yan Chen<br>
-  "Unambiguous Object Tracking by Exploiting Target Cues" ACM MMA 2024<br>
-  [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)]
-
-- **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong<br>
-  "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning" ACM MMA 2024<br>
-  [[paper](https://dl.acm.org/doi/10.1145/3595916.3626410)]
-
-
 ### TPAMI 2023
 
 - **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang<br>
   "Global Instance Tracking: Locating Target More Like Humans" TPAMI 2023<br>
   [[paper](https://arxiv.org/pdf/2202.13073.pdf)] <br>
   [[platform](http://videocube.aitestunion.com/)]
+
 
 ### IJCV 2023
 
@@ -73,11 +63,13 @@
   "A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression" IJCV 2023<br>
   [[paper](https://link.springer.com/article/10.1007/s11263-023-01902-x)]
 
+
 ### TIP 2023
 
 - **SRT:** Tianpeng Liu, Jing Li, Jia Wu, Lefei Zhang, Jun Chang, Jun Wan, Lezhi Lian<br>
   "Tracking with Saliency Region Transformer" TIP 2023<br>
   [[paper](https://ieeexplore.ieee.org/document/10359476)] 
+
 
 ### CVPR 2023
 
@@ -111,6 +103,7 @@
   [[paper](https://arxiv.org/abs/2304.14394)] <br>
   [[code](https://github.com/microsoft/VideoX)]
 
+
 ### ICCV 2023
 
 - **HiT:** Ben Kang, Xin Chen, Dong Wang, Houwen Peng, Huchuan Lu<br>
@@ -126,6 +119,7 @@
 - **F-BDMTrack:** Dawei Yang, Jianfeng He, Yinchao Ma, Qianjin Yu, Tianzhu Zhang<br>
   "Foreground-Background Distribution Modeling Transformer for Visual Object Tracking" ICCV 2023<br>
   [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Foreground-Background_Distribution_Modeling_Transformer_for_Visual_Object_Tracking_ICCV_2023_paper.pdf)] <br>
+
 
 ### NeurIPS 2023
 
@@ -144,6 +138,7 @@
   [[paper](https://arxiv.org/abs/xxxxx.xx)] <br>
   [[platform](http://videocube.aitestunion.com/)]
 
+
 ### AAAI 2023
 
 - **CTTrack:** Zikai Song, Run Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang<br>
@@ -161,11 +156,26 @@
   [[paper](https://underline.io/lecture/69278-global-dilated-attention-and-target-focusing-network-for-robust-tracking)] <br>
   [[code](https://github.com/)]
 
+
+### ACM MM 2023
+- **UTrack:** Jie Gao, Bineng Zhong, Yan Chen<br>
+  "Unambiguous Object Tracking by Exploiting Target Cues" ACM MMA 2024<br>
+  [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)]
+
+
 ### TCSVT 2023
 
 - **SiamTHN:** Jiahao Bao, Kaiqiang Chen, Xian Sun, Liangjin Zhao, Wenhui Diao, Menglong Yan<br>
   "SiamTHN: Siamese Target Highlight Network for Visual Tracking" TCSVT 2023<br>
   [[paper](https://arxiv.org/abs/2303.12304)] <br>
+
+
+### ACM MMA 2023
+
+- **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong<br>
+  "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning" ACM MMA 2024<br>
+  [[paper](https://dl.acm.org/doi/10.1145/3595916.3626410)]
+
 
 ### BMCV 2023
 
@@ -173,6 +183,7 @@
   "Mobile Vision Transformer-based Visual Object Tracking" BMVC 2023<br>
   [[paper](https://arxiv.org/abs/2309.05829)] <br>
   [[code](https://github.com/goutamyg/MVT)]
+
 
 ### WACV 2023
 
@@ -270,6 +281,7 @@
   [[paper](https://arxiv.org/abs/2204.01475)] <br>
   [[code](https://github.com/FlorinShum/ULAST)]
 
+
 ### ECCV 2022
 
 - **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan<br>
@@ -311,12 +323,14 @@
   [[paper](https://arxiv.org/abs/2207.05518)] <br>
   [[code](https://sjtuytc.github.io/zelin_pages/p3aformer.html)]
 
+
 ### NeurIPS 2022
 
 - **SwinTrack:** Liting Lin, Heng Fan, Yong Xu, Haibin Ling<br>
   "SwinTrack: A Simple and Strong Baseline for Transformer Tracking" NeurIPS 2022<br>
   [[paper](https://arxiv.org/abs/2112.00995)] <br>
   [[code](https://github.com/LitingLin/SwinTrack)]
+
   
 ### IJCAI 2022
 
@@ -329,11 +343,13 @@
   [[paper](https://arxiv.org/abs/2205.03776)] <br>
   [[code](https://github.com/fzh0917/SparseTT)]
 
+
 ### CVIU 2022
 
 - **VOTSurvey:** Fei Chen, Xiaodong Wang, Yunxiang Zhao, Shaohe Lv, Xin Niu<br>
   "Visual object tracking: A survey" CVIU 2022<br>
   [[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001011?dgcid=author)] 
+
 
 ### arXiv 2022
 
@@ -407,6 +423,7 @@
   "Learning Localization-aware Target Confidence for Siamese Visual Tracking" ArXiv 2022<br>
   [[paper](https://arxiv.org/abs/2204.14093)] <br>
 
+
 ### CVPR 2021
 
 - **TransT:** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu<br>
@@ -464,6 +481,7 @@
   [[paper](https://arxiv.org/abs/2104.00829)]<br>
   [[code](https://github.com/hqucv/siamrn)]
 
+
 ### ICCV 2021
 
 - **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu<br>
@@ -490,12 +508,14 @@
   [[paper](https://arxiv.org/pdf/2108.03637.pdf)]<br>
   [[code](https://github.com/ZikunZhou/SAOT)]
 
+
 ### NeurIPS 2021
 
 - **PathTrack:** Drew Linsley, Girik Malik, Junkyung Kim, Lakshmi Narasimhan Govindarajan, Ennio Mingolla, Thomas Serre<br>
   "Tracking Without Re-recognition in Humans and Machines" NeurIPS 2021<br>
   [[paper](https://proceedings.neurips.cc/paper/2021/hash/a2557a7b2e94197ff767970b67041697-Abstract.html)] <br>
   [[code](http://bit.ly/InTcircuit)]
+
 
 ### AAAI 2021
 
@@ -515,6 +535,7 @@
   "A Unified Multi-Scenario Attacking Network for Visual Object Tracking" AAAI 2021<br>
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16195)]
 
+
 ### ICCVW 2021
 
 - **DMB:**  Fei Xie, Wankou Yang, Kaihua Zhang, Bo Liu, Wanli Xue, Wangmeng Zuo<br>
@@ -527,12 +548,14 @@
   [[paper](https://arxiv.org/abs/2112.02571)]<br>
   [[code](https://github.com/phiphiphi31/DualTFR)]
 
+
 ### TNNLS 2021
 
 - **CCR:** Shiming Ge, Chunhui Zhang, Shikun Li, Dan Zeng, Dacheng Tao<br>
   "Cascaded Correlation Refinement for Robust Deep Tracking." TNNLS 2021<br>
   [[paper](https://ieeexplore.ieee.org/document/9069312)] <br>
   [[code](https://github.com/983632847/CCR)]
+
 
 ### IJCNN 2021
 
@@ -544,6 +567,7 @@
   "Siamese Guided Anchoring Network for Visual Tracking" IJCNN 2021<br>
   [[paper](https://ieeexplore.ieee.org/document/9533985)] <br>
   [[code](https://github.com/xxxxx.xx)]
+
 
 ### WACV 2021
 
@@ -557,6 +581,7 @@
   [[paper](https://arxiv.org/pdf/2007.09115.pdf)] <br>
   [[code](https://github.com/ISosnovik/SiamSE)]
 
+
 ### BMCV 2021
 
 - **CHASE:** Seyed Mojtaba Marvasti-Zadeh, Javad Khaghani, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei<br>
@@ -566,6 +591,7 @@
 - **TAPL:** Wei han, Hantao Huang, Xiaoxi Yu<br>
   "TAPL: Dynamic Part-based Visual Tracking via Attention-guided Part Localization" BMVC 2021<br>
   [[paper](https://arxiv.org/abs/2110.13027)] 
+
 
 ### arXiv 2021
 
