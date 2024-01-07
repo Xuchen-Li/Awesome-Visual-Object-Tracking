@@ -69,7 +69,11 @@
 
 - **SRT:** Tianpeng Liu, Jing Li, Jia Wu, Lefei Zhang, Jun Chang, Jun Wan, Lezhi Lian<br>
   "Tracking with Saliency Region Transformer" TIP 2023<br>
-  [[paper](https://ieeexplore.ieee.org/document/10359476)] 
+  [[paper](https://ieeexplore.ieee.org/document/10359476)]
+
+- **SiamTactic:** Tianyang Xu, Zhenhua Feng, Xiao-Jun Wu, Josef Kittler<br>
+  "Toward Robust Visual Object Tracking With Independent Target-Agnostic Detection and Effective Siamese Cross-Task Interaction" TIP 2023<br>
+  [[paper](https://dl.acm.org/doi/abs/10.1109/TIP.2023.3246800)]
 
 
 ### CVPR 2023
