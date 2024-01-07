@@ -152,7 +152,7 @@
   [[code](https://github.com/HUSTDML/CTTrack)]
   
 - **TATrack:** Kaijie He, Canlong Zhang, Sheng Xie, Zhixin Li, Zhiwen Wang<br>
-  "Target-Aware Tracking with Long-term Context Attention" AAAI 2023
+  "Target-Aware Tracking with Long-term Context Attention" AAAI 2023<br>
   [[paper](https://arxiv.org/abs/2302.13840)] <br>
   [[code](https://github.com/hekaijie123/TATrack)]
   
@@ -211,10 +211,6 @@
 - **CycleTrack:** Chuanming Tang, Kai Wang, Joost van de Weijer, Jianlin Zhang, Yongmei Huang<br>
   "Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking" ArXiv 2023<br>
   [[paper](https://arxiv.org/abs/2310.19542)] <br>
-
-- **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu<br>
-  "Leveraging the Power of Data Augmentation for Transformer-based Tracking" ArXiv 2023<br>
-  [[paper](https://arxiv.org/abs/2309.08264)] <br>
 
 - **CoTracker:** Nikita Karaev, Ignacio Rocco, Benjamin Graham, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht<br>
   "CoTracker: It is Better to Track Together" ArXiv 2023<br>
