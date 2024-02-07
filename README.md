@@ -2,24 +2,6 @@
 
 ## Papers
 
-### Recommendations
-
-- **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang<br>
-  "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and causal Relationship" NeurIPS 2023<br>
-  [[paper](https://huuuuusy.github.io/files/MGIT.pdf)]<br>
-  [[platform](http://videocube.aitestunion.com/)]
-  
-- **SOTVerse:** Shiyu Hu, Xin Zhao, Kaiqi Huang<br>
-  "SOTVerse: A User-defined Task Space of Single Object Tracking" IJCV 2023<br>
-  [[paper](https://link.springer.com/article/10.1007/s11263-023-01908-5)]<br>
-  [[platform](http://metaverse.aitestunion.com/)]
-  
-- **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang<br>
-  "Global Instance Tracking: Locating Target More Like Humans" TPAMI 2023<br>
-  [[paper](https://arxiv.org/pdf/2202.13073.pdf)] <br>
-  [[platform](http://videocube.aitestunion.com/)]
-
-
 ### AAAI 2024
 
 - **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li<br>
