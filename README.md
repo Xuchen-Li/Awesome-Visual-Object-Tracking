@@ -25,7 +25,21 @@
 - **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu<br>
   "Leveraging the Power of Data Augmentation for Transformer-based Tracking" WACV 2024<br> 
   [[paper](https://arxiv.org/abs/2309.08264)] <br> 
-  [[code](https://github.com/zj5559/DATr)]
+
+[[code](https://github.com/zj5559/DATr)]
+
+
+### ArXiv 2024
+
+- **OIFTrack:** Janani Kugarajeevan, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando<br>
+  "Optimized Information Flow for Transformer Tracking" ArXiv 2024<br>
+  [[paper](https://arxiv.org/abs/2402.08195)] <br>
+  [[code](https://github.com/JananiKugaa/OIFTrack)]
+
+- **SuperSBT:** Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng<br>
+  "Correlation-Embedded Transformer Tracking: A Single-Branch Framework" ArXiv 2024<br>
+  [[paper](https://arxiv.org/abs/2401.12743)]<br>
+  [[code](https://github.com/phiphiphi31/SBT)]
 
 
 ### TPAMI 2023
@@ -181,7 +195,7 @@
   [[code](https://github.com/pblatter/ettrack)]
 
 
-### arXiV 2023
+### ArXiV 2023
 
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" ArXiv 2023<br>
@@ -335,7 +349,7 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001011?dgcid=author)] 
 
 
-### arXiv 2022
+### ArXiv 2022
 
 - **NeighborTrack:** Yu-Hsi Chen, Chien-Yao Wang, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao<br>
   "NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets" ArXiv 2022<br>
@@ -577,7 +591,7 @@
   [[paper](https://arxiv.org/abs/2110.13027)] 
 
 
-### arXiv 2021
+### ArXiv 2021
 
 - **RPT++:** Ziang Ma, Haitao Zhang, Linyuan Wang, Jun Yin<br>
   "RPT++: Customized Feature Representation for Siamese Visual Tracking" ArXiv 2021<br>
