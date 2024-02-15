@@ -25,7 +25,6 @@
 - **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu<br>
   "Leveraging the Power of Data Augmentation for Transformer-based Tracking" WACV 2024<br> 
   [[paper](https://arxiv.org/abs/2309.08264)] <br> 
-
 [[code](https://github.com/zj5559/DATr)]
 
 
