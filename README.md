@@ -194,7 +194,7 @@
   [[code](https://github.com/pblatter/ettrack)]
 
 
-### ArXiV 2023
+### ArXiv 2023
 
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" ArXiv 2023<br>
