@@ -139,7 +139,7 @@
   [[paper](https://huuuuusy.github.io/files/MGIT.pdf)] <br>
   [[platform](http://videocube.aitestunion.com/)]
 
-- **:** Xinyu Zhou, Pinxue Guo, LingyiHong, JinglunLi, WeiZhang, Weifeng Ge, Wenqiang Zhang<br>
+- **RFGM:** Xinyu Zhou, Pinxue Guo, LingyiHong, JinglunLi, WeiZhang, Weifeng Ge, Wenqiang Zhang<br>
   "Reading Relevant Feature from Global Representation Memory for Visual Object Tracking" NeurIPS 2023<br>
   [[paper](https://arxiv.org/pdf/2402.14392.pdf)]
 
