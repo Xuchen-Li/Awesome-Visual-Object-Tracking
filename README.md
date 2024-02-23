@@ -136,8 +136,12 @@
   
 - **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang<br>
   "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship" NeurIPS 2023<br>
-  [[paper](https://arxiv.org/abs/xxxxx.xx)] <br>
+  [[paper](https://huuuuusy.github.io/files/MGIT.pdf)] <br>
   [[platform](http://videocube.aitestunion.com/)]
+
+- **:** Xinyu Zhou, Pinxue Guo, LingyiHong, JinglunLi, WeiZhang, Weifeng Ge, Wenqiang Zhang<br>
+  "Reading Relevant Feature from Global Representation Memory for Visual Object Tracking" NeurIPS 2023<br>
+  [[paper](https://arxiv.org/pdf/2402.14392.pdf)]
 
 
 ### AAAI 2023
