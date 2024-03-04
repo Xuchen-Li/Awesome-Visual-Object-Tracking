@@ -2,6 +2,13 @@
 
 ## Papers
 
+### CVPR 2024
+
+- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
+  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" CVPR 2024<br>
+  [[paper](https://arxiv.org/abs/2312.17133)] <be>
+  [[code]](https://artrackv2.github.io/)
+
 ### AAAI 2024
 
 - **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li<br>
@@ -199,10 +206,6 @@
 
 
 ### ArXiv 2023
-
-- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
-  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" ArXiv 2023<br>
-  [[paper](https://arxiv.org/abs/2312.17133)] <br>
 
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang<br>
   "Learning Historical Status Prompt for Accurate and Robust Visual Tracking" ArXiv 2023<br>
