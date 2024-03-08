@@ -7,7 +7,7 @@
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" CVPR 2024<br>
   [[paper](https://arxiv.org/abs/2312.17133)] <br>
-  [[code]](https://artrackv2.github.io/)
+  [[code](https://artrackv2.github.io/)]
 
 - **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji<br>
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024
