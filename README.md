@@ -9,7 +9,7 @@
   [[paper](https://arxiv.org/abs/2312.17133)] <br>
   [[code]](https://artrackv2.github.io/)
 
-- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji<br>
+- **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji<br>
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024
 
 ### AAAI 2024
