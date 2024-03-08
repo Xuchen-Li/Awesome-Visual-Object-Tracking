@@ -16,7 +16,8 @@
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024
   
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang<br>
-  "HIPTrack: Visual Tracking with Historical Prompts" CVPR 2024
+  "HIPTrack: Visual Tracking with Historical Prompts" CVPR 2024<br>
+  [[paper](https://arxiv.org/abs/2311.02072)]
 
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024
