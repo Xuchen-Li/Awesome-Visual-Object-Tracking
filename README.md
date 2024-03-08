@@ -3,7 +3,7 @@
 ## Papers
 
 ### CVPR 2024
-
+  
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" CVPR 2024<br>
   [[paper](https://arxiv.org/abs/2312.17133)] <br>
@@ -12,6 +12,16 @@
 - **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji<br>
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024
 
+- **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma<br>
+  "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024
+  
+- **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang<br>
+  "HIPTrack: Visual Tracking with Historical Prompts" CVPR 2024
+
+- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
+  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024
+
+  
 ### AAAI 2024
 
 - **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li<br>
