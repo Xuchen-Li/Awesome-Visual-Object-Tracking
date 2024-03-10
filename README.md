@@ -226,10 +226,6 @@
 
 
 ### ArXiv 2023
-
-- **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang<br>
-  "Learning Historical Status Prompt for Accurate and Robust Visual Tracking" ArXiv 2023<br>
-  [[paper](https://arxiv.org/abs/2311.02072)] <br>
   
 - **CycleTrack:** Chuanming Tang, Kai Wang, Joost van de Weijer, Jianlin Zhang, Yongmei Huang<br>
   "Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking" ArXiv 2023<br>
