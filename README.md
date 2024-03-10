@@ -27,9 +27,6 @@
 
 - **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan<br>
   "NetTrack: Tracking Highly Dynamic Objects with a Net" CVPR 2024
-
-- **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu<br>
-  "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking" CVPR 2024
   
   
 ### AAAI 2024
