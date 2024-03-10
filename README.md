@@ -22,6 +22,15 @@
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024
 
+- **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang<br>
+  "RTracker: Recoverable Tracking via PN Tree Structured Memory" CVPR 2024
+
+- **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan<br>
+  "NetTrack: Tracking Highly Dynamic Objects with a Net" CVPR 2024
+
+- **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu<br>
+  "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking" CVPR 2024
+  
   
 ### AAAI 2024
 
