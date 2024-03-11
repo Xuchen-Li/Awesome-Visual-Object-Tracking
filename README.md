@@ -81,7 +81,7 @@
 - **SOTVerse:** Shiyu Hu, Xin Zhao, Kaiqi Huang<br>
   "SOTVerse: A User-defined Task Space of Single Object Tracking" IJCV 2023<br>
   [[paper](https://arxiv.org/abs/2204.07414)] <br>
-  [[code](http://metaverse.aitestunion.com/sotverse)]
+  [[platform](http://metaverse.aitestunion.com/sotverse)]
 
 - **STRtrack:** Shaochuan Zhao, Tianyang Xu, Xiaojun Wu, Josef Kittler<br>
   "A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression" IJCV 2023<br>
