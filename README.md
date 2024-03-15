@@ -20,7 +20,7 @@
   [[paper](https://arxiv.org/abs/2311.02072)]
 
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
-  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024
+  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024<br>
   [[paper](https://arxiv.org/abs/2403.09634)]
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang<br>
