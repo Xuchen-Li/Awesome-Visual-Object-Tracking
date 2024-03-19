@@ -10,7 +10,8 @@
   [[code](https://artrackv2.github.io/)]
 
 - **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji<br>
-  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024
+  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024<br>
+  [[paper](https://arxiv.org/abs/2403.10574)]
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma<br>
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024
@@ -25,9 +26,6 @@
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang<br>
   "RTracker: Recoverable Tracking via PN Tree Structured Memory" CVPR 2024
-
-- **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan<br>
-  "NetTrack: Tracking Highly Dynamic Objects with a Net" CVPR 2024
   
   
 ### AAAI 2024
