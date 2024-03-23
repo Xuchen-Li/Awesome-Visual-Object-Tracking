@@ -11,7 +11,7 @@
 
 - **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji<br>
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024<br>
-  [[paper](https://arxiv.org/abs/2403.10574)]
+  [[paper](https://arxiv.org/abs/2403.10574)]<br>
   [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma<br>
