@@ -59,6 +59,10 @@
 
 ### ArXiv 2024
 
+- **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu<br>
+  "Exploring Dynamic Transformer for Efficient Object Tracking" ArXiv 2024<br>
+  [[paper](https://arxiv.org/abs/2403.17651)] <br>
+
 - **OIFTrack:** Janani Kugarajeevan, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando<br>
   "Optimized Information Flow for Transformer Tracking" ArXiv 2024<br>
   [[paper](https://arxiv.org/abs/2402.08195)] <br>
