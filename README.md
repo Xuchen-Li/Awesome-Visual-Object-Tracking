@@ -26,7 +26,9 @@
   [[paper](https://arxiv.org/abs/2403.09634)]
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang<br>
-  "RTracker: Recoverable Tracking via PN Tree Structured Memory" CVPR 2024
+  "RTracker: Recoverable Tracking via PN Tree Structured Memory" CVPR 2024<br>
+  [[paper](https://arxiv.org/abs/2403.19242)]<br>
+  [[code](https://github.com/NorahGreen/RTracker)]
   
   
 ### AAAI 2024
