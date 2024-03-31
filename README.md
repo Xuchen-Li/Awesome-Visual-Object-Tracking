@@ -4,30 +4,32 @@
 
 ### CVPR 2024
   
-- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei<br>
-  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" CVPR 2024<br>
+- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei <br>
+  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" CVPR 202 4<br>
   [[paper](https://arxiv.org/abs/2312.17133)] <br>
   [[code](https://artrackv2.github.io/)]
 
-- **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji<br>
-  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024<br>
-  [[paper](https://arxiv.org/abs/2403.10574)]<br>
+- **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji <br>
+  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers" CVPR 2024 <br>
+  [[paper](https://arxiv.org/abs/2403.10574)] <br>
   [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
 
-- **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma<br>
-  "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024
+- **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma <br>
+  "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024 <be>
+  [[code](https://github.com/phiphiphi31/DiffusionTrack)]
   
-- **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang<br>
-  "HIPTrack: Visual Tracking with Historical Prompts" CVPR 2024<br>
-  [[paper](https://arxiv.org/abs/2311.02072)]
+- **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang <br>
+  "HIPTrack: Visual Tracking with Historical Prompts" CVPR 2024 <br>
+  [[paper](https://arxiv.org/abs/2311.02072)] <br>
+  [[code](https://github.com/WenRuiCai/HIPTrack)]
 
-- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
-  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024<br>
+- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang <br>
+  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024 <br>
   [[paper](https://arxiv.org/abs/2403.09634)]
 
-- **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang<br>
-  "RTracker: Recoverable Tracking via PN Tree Structured Memory" CVPR 2024<br>
-  [[paper](https://arxiv.org/abs/2403.19242)]<br>
+- **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang <br>
+  "RTracker: Recoverable Tracking via PN Tree Structured Memory" CVPR 2024 <br>
+  [[paper](https://arxiv.org/abs/2403.19242)] <br>
   [[code](https://github.com/NorahGreen/RTracker)]
   
   
