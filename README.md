@@ -15,7 +15,7 @@
   [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma <br>
-  "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024 <be>
+  "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024 <br>
   [[code](https://github.com/phiphiphi31/DiffusionTrack)]
   
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang <br>
