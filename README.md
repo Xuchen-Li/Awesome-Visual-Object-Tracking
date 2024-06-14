@@ -16,6 +16,7 @@
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma <br>
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking" CVPR 2024 <br>
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.html)] <br>
   [[code](https://github.com/phiphiphi31/DiffusionTrack)]
   
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang <br>
