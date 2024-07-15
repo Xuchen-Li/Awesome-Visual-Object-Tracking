@@ -33,6 +33,13 @@
   [[paper](https://arxiv.org/abs/2403.19242)] <br>
   [[code](https://github.com/NorahGreen/RTracker)]
   
+
+### ECCV 2024
+
+- **Diff-Tracker:** Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, Jun Liu <br>
+  "Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers" ECCV 2024 <br>
+  [[paper](https://arxiv.org/abs/2407.08394)] <br>
+  
   
 ### AAAI 2024
 
