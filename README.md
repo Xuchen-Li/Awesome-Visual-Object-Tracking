@@ -39,6 +39,11 @@
 - **Diff-Tracker:** Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, Jun Liu <br>
   "Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers" ECCV 2024 <br>
   [[paper](https://arxiv.org/abs/2407.08394)] <br>
+
+- **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling <br>
+  "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance" ECCV 2024 <br>
+  [[paper](https://arxiv.org/abs/2403.05231)] <br>
+  [[code](https://github.com/LitingLin/LoRAT)]
   
   
 ### AAAI 2024
