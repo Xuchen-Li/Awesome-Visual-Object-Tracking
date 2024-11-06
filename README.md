@@ -2,8 +2,13 @@
 
 ## Papers
 
-### CVPR 2024
+### NeurIPS 2024
+
+- **CPDTrack:** Dailing Zhang, Shiyu Hu, Xiaokun Feng, Xuchen Li, Meiqi Wu, Jing Zhang, Kaiqi Huang <br>
+  "Beyond Accuracy: Tracking more like Human through Visual Search" NeurIPS 2024
   
+### CVPR 2024
+
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei <br>
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe" CVPR 2024<br>
   [[paper](https://arxiv.org/abs/2312.17133)] <br>
@@ -70,7 +75,7 @@
 - **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu<br>
   "Leveraging the Power of Data Augmentation for Transformer-based Tracking" WACV 2024<br> 
   [[paper](https://arxiv.org/abs/2309.08264)] <br> 
-[[code](https://github.com/zj5559/DATr)]
+  [[code](https://github.com/zj5559/DATr)]
 
 
 ### ArXiv 2024
@@ -137,17 +142,17 @@
   "Generalized Relation Modeling for Transformer Tracking" CVPR 2023<br>
   [[paper](https://arxiv.org/pdf/2303.16580v1.pdf)] <br>
   [[code](https://github.com/Little-Podi/GRM)]
-   
+  
 - **ARTrack:** Xing Wei, Yifan Bai, Yongchao Zheng, Dahu Shi, Yihong Gong<br>
   "Autoregressive Visual Tracking" CVPR 2023<br>
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html)] <br>
   [[code](https://github.com/MIV-XJTU/ARTrack)]
-   
+  
 - **MAT:** Haojie Zhao, Dong Wang, Huchuan Lu<br>
   "Representation Learning for Visual Object Tracking by Masked Appearance Transfer" CVPR 2023<br>
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)] <br>
   [[code](https://github.com/difhnp/MAT)]
-   
+  
 - **SeqTrack:** Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu<br />
   "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking" CVPR 2023<br>
   [[paper](https://arxiv.org/abs/2304.14394)] <br>
@@ -248,7 +253,7 @@
 
 
 ### ArXiv 2023
-  
+
 - **CycleTrack:** Chuanming Tang, Kai Wang, Joost van de Weijer, Jianlin Zhang, Yongmei Huang<br>
   "Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking" ArXiv 2023<br>
   [[paper](https://arxiv.org/abs/2310.19542)] <br>
