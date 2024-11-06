@@ -52,8 +52,6 @@
   "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance" ECCV 2024 <br>
   [[paper](https://arxiv.org/abs/2403.05231)] <br>
   [[code](https://github.com/LitingLin/LoRAT)]
-  
-  
 ### AAAI 2024
 
 - **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li<br>
@@ -76,8 +74,8 @@
 
 
 - **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu<br>
-  "Leveraging the Power of Data Augmentation for Transformer-based Tracking" WACV 2024<br> 
-  [[paper](https://arxiv.org/abs/2309.08264)] <br> 
+  "Leveraging the Power of Data Augmentation for Transformer-based Tracking" WACV 2024<br>
+  [[paper](https://arxiv.org/abs/2309.08264)] <br>
   [[code](https://github.com/zj5559/DATr)]
 
 
@@ -381,7 +379,6 @@
   [[paper](https://arxiv.org/abs/2112.00995)] <br>
   [[code](https://github.com/LitingLin/SwinTrack)]
 
-  
 ### IJCAI 2022
 
 - **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu<br>
