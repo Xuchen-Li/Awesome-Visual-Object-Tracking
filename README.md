@@ -6,6 +6,9 @@
 
 - **CPDTrack:** Dailing Zhang, Shiyu Hu, Xiaokun Feng, Xuchen Li, Meiqi Wu, Jing Zhang, Kaiqi Huang <br>
   "Beyond Accuracy: Tracking more like Human through Visual Search" NeurIPS 2024
+
+- **DeTrack:** Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang <br>
+  "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking" NeurIPS 2024
   
 ### CVPR 2024
 
